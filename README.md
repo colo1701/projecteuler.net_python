@@ -1,7 +1,7 @@
 # <p align="center"> projecteuler.net using python </p>
 
 <p align="center">
-<img src="https://github.com/colo1701/holodeck/blob/main/images/c_logo.png" width="200" alt="I should be an image... =( ">
+<img src="https://github.com/colo1701/holodeck/blob/main/images/python_logo.png" width="200" alt="I should be an image... =( ">
 </p>
 
 A brief collection of my solutions for the challenges on projecteuler.net using python.
